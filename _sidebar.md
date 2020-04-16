@@ -7,7 +7,9 @@
   - [快速入门](quick-start.md)
 
 - [emoji](emoji-list.md)
-- [工具](docs/tools/tool_readme.md)
----
+
+- 工具
+  - [工具目录](docs/tools/tool_readme.md)
+-----------------------------------
 
 - [参考](reference-resources.md)
