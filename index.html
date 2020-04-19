@@ -43,6 +43,13 @@
   <!-- 字数统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 
+  <!-- 外链脚本插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+  <!-- 链接下一篇文章插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+
   <script>
     var titleOld = "吕小洛的博客";
     var gitalkConfig = {
@@ -107,20 +114,26 @@
           '/': 'Copied'
         }
       },
+      pagination: {
+          previousText: '上一篇',
+          nextText: '下一篇',
+          crossChapter: true,
+          crossChapterText: true,
+      },
       plugins: [
 
         // 编辑
 
-        EditOnGithubPlugin.create(
-          'https://github.com/Sogrey/Docsify-Template/tree/master/docs/',
-          null,
-          function (file) {
-            if (file.indexOf('/en/') === -1) {
-              return '编辑'
-            } else {
-              return 'edit on github'
-            }
-          }),
+        // EditOnGithubPlugin.create(
+        //   'https://github.com/Sogrey/Docsify-Template/tree/master/docs/',
+        //   null,
+        //   function (file) {
+        //     if (file.indexOf('/en/') === -1) {
+        //       return '编辑'
+        //     } else {
+        //       return 'edit on github'
+        //     }
+        //   }),
 
         // gitalk
 
