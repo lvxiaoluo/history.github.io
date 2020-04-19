@@ -1,11 +1,5 @@
 # Other
 
-
-
-
-
-
-
 ## flag
 
 + [https://github.com/No-Github/Digital-Privacy](https://github.com/No-Github/Digital-Privacy)

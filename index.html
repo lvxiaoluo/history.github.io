@@ -8,7 +8,7 @@
   <meta name="description" content="吕小洛的博客">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="/static/css/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <link rel="icon" href="favicon.ico">
 </head>
@@ -17,7 +17,7 @@
   <div id="app">
   </div>
 
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="/static/js/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <!-- A plugin for docsify to generate a edit on github button on every pages. 
     click the button to open corresponding md editing page on github. -->
@@ -37,7 +37,7 @@
   <!-- 复制到剪贴板 -->
   <script src="//unpkg.com/docsify-copy-code"></script>
   <!-- 图片缩放 -->
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="/static/js/zoom-image.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 
   <!-- 字数统计 -->
@@ -71,8 +71,9 @@
       loadNavbar:true,// '_navbar.md', //菜单栏
       coverpage: { //封面
         '/': '_coverpage.md'
+
       },
-      subMaxLevel: 2,
+      subMaxLevel: 1,
       alias: {
         // '/_sidebar.md': '/sidebar.md'
       },
