@@ -149,13 +149,6 @@
 
 > https://wallhaven.cc/search?q=id%3A标签的ID&page=页数
 
-- 例子
-
-> 搜索女性，第一页：[https://wallhaven.cc/search?q=id%3A222&page=1](https://wallhaven.cc/search?q=id%3A222&page=1)
-
-> 搜索亚洲，第一页：[https://wallhaven.cc/search?q=id%3A449&page=1](https://wallhaven.cc/search?q=id%3A449&page=1)
-
-
 **最新**
 
 > https://wallhaven.cc/latest?page=2
