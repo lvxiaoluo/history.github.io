@@ -675,4 +675,6 @@ set password for 'root'@'localhost'=password('123456');
 update user set password=PASSWORD("123456") where user='root';
 ```
 
+* [子查询分页](https://www.cnblogs.com/shudaizi/archive/2011/11/05/2236956.html)
+
 

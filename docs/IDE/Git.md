@@ -338,7 +338,7 @@ git log master..origin/master
 ## 常见问题
 
 * [git中fatal: Authentication failed的问题](https://blog.csdn.net/qq_34665539/article/details/80408282)
-
+* [git提交本地代码到远程仓库之前没有pull导致push失败解决办法](./git提交本地代码到远程仓库之前没有pull导致push失败解决办法.md)
 
 ### 项目过大clone报错
 

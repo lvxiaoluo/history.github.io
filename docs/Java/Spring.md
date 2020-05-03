@@ -189,3 +189,7 @@
 * [分布式日志框架ELK入门](https://blog.csdn.net/piantoutongyang/article/details/88811840)
 * [SpringCloud实践分享 日志收集Kafka ELK](https://juejin.im/post/5d84a83af265da03ee6a92af)
 
+* [spring validation校验参数](https://www.cnblogs.com/better-farther-world2099/articles/11784660.html)
+* [SpringBoot 数据基础校验_ 分组校验 【Group Validate】](https://www.cnblogs.com/hbbbs/articles/11899446.html)
+* [【SpringMVC整合MyBatis】validation校验-分组校验](https://blog.csdn.net/acmman/article/details/47441893)
+* [使用spring validation完成数据后端校验-自定义校验的注解-判断是否为空](https://blog.csdn.net/qb170217/article/details/81232945)

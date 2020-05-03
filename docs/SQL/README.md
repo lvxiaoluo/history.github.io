@@ -21,8 +21,10 @@
 * pt-query-digest、pt-variable-advisor：[https://www.percona.com/downloads/percona-toolkit/LATEST/](https://www.percona.com/downloads/percona-toolkit/LATEST/)
 * [https://www.red-gate.com/products](https://www.red-gate.com/products)
 * [https://www.sqlgate.com](https://www.sqlgate.com)
-
-
+* [MySql学习(七) —— 查询性能优化 深入理解MySql如何执行查询](https://www.cnblogs.com/chiangchou/p/mysql-8.html)
+* [SQL中EXISTS与IN的使用及效率](https://www.cnblogs.com/niudaxianren/p/10018634.html)
+* [EXPLAIN用法和结果分析](https://blog.csdn.net/why15732625998/article/details/80388236)
+* [mysql 查询优化 ~explain解读之select_type的解读](https://www.cnblogs.com/danhuangpai/p/8475458.html)
 
 ## SQLite3
 

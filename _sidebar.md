@@ -17,6 +17,8 @@
 
   * [Java笔记](/docs/Java/Java笔记.md)
 
+  * [Mybatis](/docs/Mybatis/README.md)
+
   * [JDK](/docs/Java/JDK.md)
 
   * [ORM](/docs/Java/ORM.md)
