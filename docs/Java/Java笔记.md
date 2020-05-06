@@ -800,3 +800,8 @@ List<NameValuePair> params = new URIBuilder(request.getURI()).getQueryParams();
 //转换为键值对字符串
 String str = EntityUtils.toString(new UrlEncodedFormEntity(params, Consts.UTF_8));
 ```
+
+## java 8
+
+[JDK8通过Stream对List-Map操作和互转](/docs/Java/JDK8通过Stream对List-Map操作和互转.md)
+[JAVA8之妙用Optional解决NPE问题](/docs/Java/java8-Optional-npe.md)
