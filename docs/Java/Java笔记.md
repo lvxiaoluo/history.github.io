@@ -801,6 +801,8 @@ List<NameValuePair> params = new URIBuilder(request.getURI()).getQueryParams();
 String str = EntityUtils.toString(new UrlEncodedFormEntity(params, Consts.UTF_8));
 ```
 
+### 异常
+[RuntimeException和Exception区别](/docs/Java/RuntimeException和Exception区别.md)
 ## java 8
 
 [JDK8通过Stream对List-Map操作和互转](/docs/Java/JDK8通过Stream对List-Map操作和互转.md)
